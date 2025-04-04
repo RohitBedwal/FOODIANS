@@ -138,3 +138,8 @@ This project is a React-based application designed for managing and displaying f
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Time Taken
+
+I have completed this project in 5 days
