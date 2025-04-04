@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@font-face{
+    font-family: amma1;
+    src: url(./assets/font/fontawesome-webfont.woff2);
+  }
+@font-face{
+    font-family: amma2;
+    src: url(./assets/font/neuzeitoffice_i4.afb55889f961ad5b9449a167e154918f37e53c3a.woff2);
+  }
+@font-face{
+    font-family: amma3;
+    src: url(./assets/font/neuzeitoffice_n4.ae7f155182babff68f1ef962040edcc74cbc0239.woff2);
+  }
+@font-face{
+    font-family: amma4;
+    src: url(./assets/font/neuzeitoffice_n7.8e6644a6e9b2b400849c4ec07e56b061ab1e6754.woff2);
+  }
+@font-face{
+    font-family: amma5;
+    src: url(./assets/font/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPbPpqKl8Kuo8Az.woff2);
+  }
+
+  
+  
